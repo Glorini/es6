@@ -1,0 +1,2 @@
+//dimostrazione della closure
+
